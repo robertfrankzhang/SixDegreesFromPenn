@@ -1,0 +1,5 @@
+You can download the glove files here: https://nlp.stanford.edu/projects/glove/
+
+Under Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 300d vectors, 822 MB download):
+
+Click on the glove.6B.zip download button
