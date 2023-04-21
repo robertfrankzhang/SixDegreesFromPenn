@@ -589,7 +589,6 @@ public class App {
             break;
           }
           path1.add(parent);
-          System.out.println(path1);
         }
 
         // Reverse path1
